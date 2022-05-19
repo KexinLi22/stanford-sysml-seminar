@@ -49,10 +49,10 @@ Check out our introductory video:
 
 # Sponsor Job Postings
 **Amazon Science**:
-* Director, Applied Science, Alex Al|[Link](https://www.amazon.jobs/en/jobs/1670863/director-applied-science)
+* Director, Applied Science, Alex Al, [Link](https://www.amazon.jobs/en/jobs/1670863/director-applied-science)
 
 **Hitachi, Ltd.**:
-* AI Researcher|[PDF](https://aaaijobfair.com/PDF22/Hitachi_JobPosting1%20-%20Yuko%20T.pdf)
+* AI Researcher, [PDF](https://aaaijobfair.com/PDF22/Hitachi_JobPosting1%20-%20Yuko%20T.pdf)
 
 # Submit Your CV
 
