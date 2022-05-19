@@ -28,7 +28,7 @@ the real world, and how can academia rise to meet those challenges?
 * [IBM](http://ibm-research-at-aaai-2021.mybluemix.net/#/)
 * [Google](https://research.google/)
  
-![Sasquatch eating](https://github.com/KexinLi22/stanford-sysml-seminar/blob/main/images/eating.jpeg "eating")
+![Sasquatch eating](/images/eating.jpeg "eating")
 
 In this seminar series, we want to take a look at the frontier of machine
 learning systems, and how machine learning changes the modern programming
