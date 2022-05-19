@@ -56,6 +56,8 @@ Check out our introductory video:
 
 # Submit Your CV
 
+![Step 1](/images/step1.gif "Step 1")
+
 **Seminar Hosts:** Dan Fu, Karan Goel, Fiodar Kazhamakia, Piero Molino.
 
 **Executive Producers:** Matei Zaharia, Chris Ré.
