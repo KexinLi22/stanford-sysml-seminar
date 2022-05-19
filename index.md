@@ -27,6 +27,8 @@ the real world, and how can academia rise to meet those challenges?
 
 * [IBM](http://ibm-research-at-aaai-2021.mybluemix.net/#/)
 * [Google](https://research.google/)
+ 
+![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 In this seminar series, we want to take a look at the frontier of machine
 learning systems, and how machine learning changes the modern programming
