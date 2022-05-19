@@ -1,3 +1,8 @@
+---
+layout: default
+meta-description: "Seminar series on the frontier of machine learning and systems. Livestreamed every Thursday, 1:30-2:30 pm PT."
+---
+
 # Stanford MLSys Seminar Series h
 
 **News**:
