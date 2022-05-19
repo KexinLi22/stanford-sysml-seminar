@@ -5,13 +5,15 @@ meta-description: "Seminar series on the frontier of machine learning and system
 
 # Use sasquatch to test template
 
-**News**:
+**Job Fair**:
 * This is to test the outside [Link](https://www.youtube.com/results?search_query=sasquatch+game).
 * This is to test the subpage [maps](/cs528)!
 * We are now available in podcast form on [Apple Podcasts](https://podcasts.apple.com/us/podcast/stanford-mlsys-seminar/id1603927994), [Spotify](https://open.spotify.com/show/3NazVHl6ujGuHCjGlN0SCf), and [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83YmRkMzMxNC9wb2RjYXN0L3Jzcw)!
 * Stanford students, check out [CS 528](/cs528), a new course at Stanford running this fall!
 * Our talks this semester are Thursdays 1:30 PM PT!
 * Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week! 
+
+**Details**:
 
 Sasquatch is a funny!!
 
@@ -20,6 +22,8 @@ What does the ubiquity of machine learning mean for how people build and deploy
 systems and applications?
 What challenges does industry face when deploying machine learning systems in
 the real world, and how can academia rise to meet those challenges?
+
+# Participating Companies
 
 In this seminar series, we want to take a look at the frontier of machine
 learning systems, and how machine learning changes the modern programming
@@ -39,6 +43,8 @@ Check out our introductory video:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=tmcufCv-99A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Read our blog post on our [why we're running this seminar]({{ site.baseurl }}/about). -->
+
+# Sponsor Job Postings
 
 {% for category in site.data.talks %}
 # {{ category.type }}
@@ -82,7 +88,7 @@ Check out our introductory video:
 </div>
 {% endfor %}
 
-# About The Seminar
+# Submit Your CV
 
 **Seminar Hosts:** Dan Fu, Karan Goel, Fiodar Kazhamakia, Piero Molino.
 
