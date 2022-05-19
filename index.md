@@ -43,7 +43,7 @@ Give our channel a follow, and tune in every week for an exciting discussion!
 Read about our [motivation for starting this seminar](https://hazyresearch.stanford.edu/blog/2020-10-13-mlsys).
 
 Check out our introductory video:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=OEiNnfdxBRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OEiNnfdxBRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Read our blog post on our [why we're running this seminar]({{ site.baseurl }}/about). -->
 
